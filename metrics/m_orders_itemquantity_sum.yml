@@ -1,0 +1,6 @@
+unique_name: m_orders_itemquantity_sum
+object_type: metric
+label: Orders Count
+calculation_method: count distinct
+column: itemquantity
+dataset: orders
